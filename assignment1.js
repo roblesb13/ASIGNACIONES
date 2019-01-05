@@ -4,5 +4,4 @@ function calculaAngulo (hora,min){
 	var calMin = calHora - min;
 	var angulo = Calmin * 360/60;
 	return angulo;
-
 }
